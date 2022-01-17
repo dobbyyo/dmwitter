@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dmwitter/static/css/main.d34172d5.css",
+    "main.js": "/dmwitter/static/js/main.25367b1d.js",
+    "index.html": "/dmwitter/index.html",
+    "main.d34172d5.css.map": "/dmwitter/static/css/main.d34172d5.css.map",
+    "main.25367b1d.js.map": "/dmwitter/static/js/main.25367b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d34172d5.css",
+    "static/js/main.25367b1d.js"
+  ]
+}
